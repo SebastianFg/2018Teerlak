@@ -1,0 +1,20 @@
+C:\Users\Agustin\Documents\Visual Studio 2017\Projects\2018vb\2018vb\bin\Debug\2018vb.dll
+C:\Users\Agustin\Documents\Visual Studio 2017\Projects\2018vb\2018vb\bin\Debug\2018vb.pdb
+C:\Users\Agustin\Documents\Visual Studio 2017\Projects\2018vb\2018vb\bin\Debug\2018vb.xml
+C:\Users\Agustin\Documents\Visual Studio 2017\Projects\2018vb\2018vb\obj\Debug\2018vb.vbprojAssemblyReference.cache
+C:\Users\Agustin\Documents\Visual Studio 2017\Projects\2018vb\2018vb\obj\Debug\_2018vb.Resources.resources
+C:\Users\Agustin\Documents\Visual Studio 2017\Projects\2018vb\2018vb\obj\Debug\2018vb.vbproj.GenerateResource.cache
+C:\Users\Agustin\Documents\Visual Studio 2017\Projects\2018vb\2018vb\obj\Debug\2018vb.vbproj.CoreCompileInputs.cache
+C:\Users\Agustin\Documents\Visual Studio 2017\Projects\2018vb\2018vb\obj\Debug\2018vb.dll
+C:\Users\Agustin\Documents\Visual Studio 2017\Projects\2018vb\2018vb\obj\Debug\2018vb.xml
+C:\Users\Agustin\Documents\Visual Studio 2017\Projects\2018vb\2018vb\obj\Debug\2018vb.pdb
+C:\Users\Sebastian\Desktop\2018vb\2018vb\bin\Debug\2018vb.dll
+C:\Users\Sebastian\Desktop\2018vb\2018vb\bin\Debug\2018vb.pdb
+C:\Users\Sebastian\Desktop\2018vb\2018vb\bin\Debug\2018vb.xml
+C:\Users\Sebastian\Desktop\2018vb\2018vb\obj\Debug\2018vb.vbprojAssemblyReference.cache
+C:\Users\Sebastian\Desktop\2018vb\2018vb\obj\Debug\_2018vb.Resources.resources
+C:\Users\Sebastian\Desktop\2018vb\2018vb\obj\Debug\2018vb.vbproj.GenerateResource.cache
+C:\Users\Sebastian\Desktop\2018vb\2018vb\obj\Debug\2018vb.vbproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\2018vb\2018vb\obj\Debug\2018vb.dll
+C:\Users\Sebastian\Desktop\2018vb\2018vb\obj\Debug\2018vb.xml
+C:\Users\Sebastian\Desktop\2018vb\2018vb\obj\Debug\2018vb.pdb
